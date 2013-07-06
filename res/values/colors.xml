@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="header_normal">#888888</color>
+    <color name="header_pressed">#999999</color>
+     <color name="semi_transparent">#29000000</color>    
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appFBId">1395704890642274</string>
+    <string name="app_name">Maxim Girls</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="no_network_connection_toast">Network connection is not available</string>
+    <string name="connection_error">Connection Error!</string>
+    <string name="xml_error">Xml Error!</string>
+    <string name="appSpot_admob_apikey">NT7PVMHK5HR3P2M4R94X</string>
+    <string name="appSpot_admob_testdevicekey">4bfd91e9-a89f-4790-a2a6-68dcf12e2b46</string>
+    <string name="copyright">&#169; 2013,2014 K One Team</string>
+</resources>

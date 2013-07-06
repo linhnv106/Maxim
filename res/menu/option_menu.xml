@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+     <item
+        android:id="@+id/action_download"
+        android:orderInCategory="1"
+        android:showAsAction="collapseActionView"
+        android:title="Download"/>
+      <item
+        android:id="@+id/action_set_wall"
+        android:orderInCategory="2"
+        android:showAsAction="collapseActionView"
+        android:title="Set as wallpaper"/>
+       <item
+        android:id="@+id/action_share"
+        android:orderInCategory="3"
+        android:showAsAction="collapseActionView"
+        android:title="Share"/>
+
+</menu>
